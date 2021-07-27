@@ -1,0 +1,11 @@
+C:\Users\EMILIO\Documents\Visual Studio 2008\Projects\IbarraValdez_ProyectoFinal\IbarraValdez_ProyectoFinal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\EMILIO\Documents\Visual Studio 2008\Projects\IbarraValdez_ProyectoFinal\IbarraValdez_ProyectoFinal\obj\Debug\IbarraValdez_ProyectoFinal.Form1.resources
+C:\Users\EMILIO\Documents\Visual Studio 2008\Projects\IbarraValdez_ProyectoFinal\IbarraValdez_ProyectoFinal\obj\Debug\IbarraValdez_ProyectoFinal.Form2.resources
+C:\Users\EMILIO\Documents\Visual Studio 2008\Projects\IbarraValdez_ProyectoFinal\IbarraValdez_ProyectoFinal\obj\Debug\IbarraValdez_ProyectoFinal.Form3.resources
+C:\Users\EMILIO\Documents\Visual Studio 2008\Projects\IbarraValdez_ProyectoFinal\IbarraValdez_ProyectoFinal\obj\Debug\IbarraValdez_ProyectoFinal.Form4.resources
+C:\Users\EMILIO\Documents\Visual Studio 2008\Projects\IbarraValdez_ProyectoFinal\IbarraValdez_ProyectoFinal\obj\Debug\IbarraValdez_ProyectoFinal.Properties.Resources.resources
+C:\Users\EMILIO\Documents\Visual Studio 2008\Projects\IbarraValdez_ProyectoFinal\IbarraValdez_ProyectoFinal\obj\Debug\IbarraValdez_ProyectoFinal.csproj.GenerateResource.Cache
+C:\Users\EMILIO\Documents\Visual Studio 2008\Projects\IbarraValdez_ProyectoFinal\IbarraValdez_ProyectoFinal\bin\Debug\IbarraValdez_ProyectoFinal.exe
+C:\Users\EMILIO\Documents\Visual Studio 2008\Projects\IbarraValdez_ProyectoFinal\IbarraValdez_ProyectoFinal\bin\Debug\IbarraValdez_ProyectoFinal.pdb
+C:\Users\EMILIO\Documents\Visual Studio 2008\Projects\IbarraValdez_ProyectoFinal\IbarraValdez_ProyectoFinal\obj\Debug\IbarraValdez_ProyectoFinal.exe
+C:\Users\EMILIO\Documents\Visual Studio 2008\Projects\IbarraValdez_ProyectoFinal\IbarraValdez_ProyectoFinal\obj\Debug\IbarraValdez_ProyectoFinal.pdb
